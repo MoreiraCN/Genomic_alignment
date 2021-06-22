@@ -10,13 +10,25 @@ samtools-v1.9 | http://samtools.sourceforge.net/ | Li H, Handsaker B, Wysoker A,
 
 The script were designer using an job scheduling system [sbatch](https://slurm.schedmd.com/sbatch.html).
 
-- Command line used: sbatch [script_bowtie2.sh](https://github.com/MoreiraCN/Genomic_alignment/blob/main/script_bowtie2.sh)
+- Command line used: sbatch [bowtie2_aligment.sh](https://github.com/MoreiraCN/Genomic_alignment/blob/main/bowtie2_aligment.sh)
 
 **Input data:**
  
- -
- 
+ - Assembled genome in fasta format.
+ - Filtered libraries in fasta format (is possible to use compressed files).
+
+
  **Parameters used:**
  
- -
+ - very-sensitive 
+ - no-discordant 
+ - N 0 
+ - L 4 
+ - gbar 10 
+ - threads 20 
+ - un-conc
+ - Sb 
+ - @ 11 
+ - o 
+ - @ 11 
  
