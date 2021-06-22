@@ -10,7 +10,7 @@ samtools-v1.9 | http://samtools.sourceforge.net/ | Li H, Handsaker B, Wysoker A,
 
 The script were designer using an job scheduling system [sbatch](https://slurm.schedmd.com/sbatch.html).
 
-- Command line used: sbatch script.sh
+- Command line used: sbatch [script_bowtie2.sh](https://github.com/MoreiraCN/Genomic_alignment/blob/main/script_bowtie2.sh)
 
 **Input data:**
  
