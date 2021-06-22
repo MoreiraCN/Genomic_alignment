@@ -8,4 +8,15 @@ bowtie-v2.4.2 | http://bowtie-bio.sourceforge.net/bowtie2/index.shtml | Langmead
 
 samtools-v1.9 | http://samtools.sourceforge.net/ | Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, Marth G, Abecasis G, Durbin R (2009). The sequence alignment/map format and SAMtools. Bioinformatics, 25(16):2078-2079.
 
+The script were designer using an job scheduling system [sbatch](https://slurm.schedmd.com/sbatch.html).
 
+- Command line used: sbatch script.sh
+
+**Input data:**
+ 
+ -
+ 
+ **Parameters used:**
+ 
+ -
+ 
