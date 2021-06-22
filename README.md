@@ -15,7 +15,7 @@ The script were designer using an job scheduling system [sbatch](https://slurm.s
 **Input data:**
  
  - Assembled genome in fasta format.
- - Filtered libraries in fasta format (is possible to use compressed files).
+ - Filtered libraries in fasta format (it is possible to use compressed files).
 
 
  **Parameters used:**
