@@ -10,7 +10,7 @@
 #SBATCH --ntasks=20
 # time=48:00:00
 
-# Path softwares 
+# Path to softwares 
 path_bowtie2="/bowtie-v2.4.2"
 path_samtools="/samtools-v1.9"
 
