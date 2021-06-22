@@ -1,6 +1,6 @@
 ### Genomic alignment
 
-The following pipeline was used to align filtered libraries against the assembled genome of the species *Holochilus sciureus* (2n = 56, NF = 56), a Neotropical rodent of Oryzomyini tribe. The libraries comprise whole genomic DNA (gDNA) and probe of entire chromosome (obtained by flow sorting and fragmented by a DOP-PCR reaction) sequences, both from the species *H. sciureus*. Filtering and assembly pipelines are available at [GitHub page](https://github.com/MoreiraCN/Filtering_Illumina_sequences)(https://github.com/MoreiraCN/Assembling_Illumina_sequences).
+The following pipeline was used to align filtered libraries against the assembled genome of the species *Holochilus sciureus* (2n = 56, NF = 56), a Neotropical rodent of Oryzomyini tribe. The libraries comprise whole genomic DNA (gDNA) and probe of entire chromosome (obtained by flow sorting and fragmented by a DOP-PCR reaction) sequences, both from the species *H. sciureus*. Filtering and assembly pipelines are available at [GitHub page](https://github.com/MoreiraCN/Filtering_Illumina_sequences) and [GitHub page](https://github.com/MoreiraCN/Assembling_Illumina_sequences).
 
 - Softwares used:
 
