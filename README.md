@@ -14,8 +14,8 @@ The script were designer using the job scheduling system [sbatch](https://slurm.
 
 **Input data:**
  
- - Assembled genome in fasta format.
- - Filtered libraries in fasta format (it is possible to use compressed files).
+ - [Assembled](https://github.com/MoreiraCN/Assembling_Illumina_sequences) genome in fasta format.
+ - [Filtered](https://github.com/MoreiraCN/Filtering_Illumina_sequences) libraries in fasta format (it is possible to use compressed files).
 
  **Parameters used:**
  
