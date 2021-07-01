@@ -10,7 +10,7 @@ The following pipeline was used to align [filtered](https://github.com/MoreiraCN
 
 The script were designer using the job scheduling system [sbatch](https://slurm.schedmd.com/sbatch.html).
 
-- Command line used:
+**Command line used:**
 
 `sbatch bowtie2_aligment.sh`
 
