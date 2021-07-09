@@ -10,14 +10,14 @@ The following pipeline was used to align [filtered](https://github.com/MoreiraCN
 
 The script were designer using the job scheduling system [sbatch](https://slurm.schedmd.com/sbatch.html).
 
-**Command line used:**
-
-`sbatch bowtie2_aligment.sh`
-
 **Input data:**
  
 - [Assembled](https://github.com/MoreiraCN/Assembling_Illumina_sequences) genome in fasta format.
 - [Filtered](https://github.com/MoreiraCN/Filtering_Illumina_sequences) libraries in fasta format (it is possible to use compressed files).
+
+**Command line used:**
+
+`sbatch bowtie2_aligment.sh`
 
  **Parameters used:**
  
